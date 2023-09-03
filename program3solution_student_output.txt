@@ -1,0 +1,3162 @@
+Enter Seed: Welcome to the card game war!
+Here are the rules.
+You have a pile of cards and I have a pile of cards.
+We will each pull the top card off of our respective deck and compare them.
+The card with the highest number will win the round and take both cards.
+However if there is a tie, then we have to we have to place one card faced down and the next one faced up and compare the results.
+Winner of the tie, will grab all the cards out. However if it's a tie again, then we repeat the same action.
+Ready? Here we go!
+Would you like to be player 1 or 2?
+Enter 1 or 2: Alright lets play game 1.
+Lets split the deck.
+There are 52 cards in the deck.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a 9 of Diamonds.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 8 of Clubs.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a Ace of Clubs.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a 4 of Spades.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a 5 of Spades.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a 10 of Spades.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a Queen of Diamonds.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a 5 of Hearts.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a 9 of Spades.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 6 of Diamonds.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a Queen of Clubs.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a 7 of Diamonds.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 3 of Spades.	Player 2 pulled out a 7 of Spades.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a 2 of Diamonds.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a King of Diamonds.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a 3 of Clubs.
+Ugh oh...We have a tie! W-A-R!
+1--Queen of Hearts	2--Ace of Hearts
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a 8 of Spades.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 8 of Spades.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 6 of Hearts.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a 10 of Hearts.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 4 of Spades.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 5 of Spades.	Player 2 pulled out a 9 of Diamonds.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 2 of Hearts.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a Ace of Clubs.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a 7 of Clubs.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a 10 of Spades.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 9 of Spades.	Player 2 pulled out a Queen of Diamonds.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 7 of Hearts.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a Jack of Hearts.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a Queen of Clubs.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a 7 of Spades.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 6 of Clubs.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a King of Diamonds.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a Queen of Spades.
+Player 2 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 3 of Clubs.
+Player 1 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 6 of Spades.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a 5 of Clubs.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a Jack of Diamonds.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 8 of Diamonds.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a 10 of Clubs.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 10 of Hearts.
+Player 2 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a 5 of Diamonds.
+Player 1 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a 4 of Spades.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a 9 of Diamonds.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 3 of Spades.	Player 2 pulled out a 5 of Spades.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a Ace of Clubs.
+Player 2 won that round.
+Player 1 has 13 cards.
+Player 2 has 39 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 10 of Spades.
+Player 2 won that round.
+Player 1 has 13 cards.
+Player 2 has 39 cards.
+Player 1 pulled out a 3 of Clubs.	Player 2 pulled out a 5 of Hearts.
+Player 2 won that round.
+Player 1 has 12 cards.
+Player 2 has 40 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a Queen of Diamonds.
+Player 2 won that round.
+Player 1 has 11 cards.
+Player 2 has 41 cards.
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 10 cards.
+Player 2 has 42 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a King of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--6 of Spades	2--6 of Diamonds
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a Jack of Hearts.
+Player 1 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a 7 of Spades.
+Player 2 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a 2 of Diamonds.
+Player 1 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a King of Diamonds.
+Player 2 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a 8 of Spades.
+Player 1 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a Queen of Spades.
+Player 2 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 8 of Clubs.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 13 cards.
+Player 2 has 39 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a King of Hearts.	Player 2 pulled out a 5 of Clubs.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a 2 of Hearts.
+Player 1 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a 8 of Diamonds.
+Player 1 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a 7 of Clubs.
+Player 1 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a 10 of Diamonds.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a 10 of Clubs.
+Player 1 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a 4 of Hearts.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a 10 of Hearts.
+Player 2 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a 8 of Hearts.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 13 cards.
+Player 2 has 39 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a 4 of Clubs.
+Player 1 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 4 of Spades.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a 2 of Spades.
+Ugh oh...We have a tie! W-A-R!
+1--King of Hearts	2--5 of Spades
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a King of Hearts.	Player 2 pulled out a 6 of Hearts.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a 5 of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--6 of Diamonds	2--3 of Clubs
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a Queen of Diamonds.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 3 of Clubs.
+Player 1 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a Queen of Diamonds.
+Player 1 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 9 of Clubs.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 7 of Spades.
+Player 1 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 4 of Spades.	Player 2 pulled out a 6 of Spades.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a Jack of Diamonds.
+Player 2 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 5 of Spades.	Player 2 pulled out a King of Diamonds.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 3 of Spades.	Player 2 pulled out a 5 of Diamonds.
+Player 2 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a Queen of Spades.
+Player 1 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 9 of Diamonds.
+Player 1 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a 8 of Clubs.
+Player 1 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a King of Hearts.	Player 2 pulled out a 6 of Clubs.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 3 of Clubs.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a Queen of Clubs.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a 10 of Diamonds.
+Player 1 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 7 of Diamonds.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a 2 of Diamonds.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a 10 of Hearts.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 7 of Hearts.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 7 of Spades.	Player 2 pulled out a 8 of Hearts.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a Jack of Clubs.
+Ugh oh...We have a tie! W-A-R!
+1--9 of Diamonds	2--5 of Hearts
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a 5 of Clubs.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 8 of Diamonds.
+Player 1 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a 9 of Hearts.
+Player 1 won that round.
+Player 1 has 30 cards.
+Player 2 has 22 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a King of Hearts.	Player 2 pulled out a 8 of Spades.
+Player 1 won that round.
+Player 1 has 30 cards.
+Player 2 has 22 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 6 of Spades.
+Ugh oh...We have a tie! W-A-R!
+1--7 of Clubs	2--4 of Spades
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a 4 of Spades.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a Jack of Diamonds.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a King of Diamonds.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a 5 of Spades.
+Player 2 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 5 of Diamonds.
+Player 1 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a Queen of Hearts.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a 6 of Hearts.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a 3 of Clubs.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a 10 of Hearts.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a 8 of Hearts.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a 7 of Spades.
+Player 2 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a Queen of Spades.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a 8 of Clubs.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a 6 of Spades.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a King of Hearts.	Player 2 pulled out a 6 of Clubs.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a 7 of Clubs.
+Player 1 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 4 of Spades.	Player 2 pulled out a Ace of Diamonds.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a Queen of Clubs.
+Player 2 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a Queen of Diamonds.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a 10 of Clubs.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a Jack of Diamonds.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a 9 of Clubs.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a King of Diamonds.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 3 of Spades.	Player 2 pulled out a 4 of Clubs.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a 5 of Spades.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a Queen of Hearts.	Player 2 pulled out a 2 of Diamonds.
+Player 1 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a 6 of Hearts.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 3 of Clubs.	Player 2 pulled out a 4 of Diamonds.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a Jack of Spades.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a 10 of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--8 of Clubs	2--5 of Hearts
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a 8 of Hearts.
+Player 1 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a Jack of Hearts.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a Queen of Spades.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a King of Hearts.	Player 2 pulled out a 9 of Diamonds.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a 8 of Diamonds.
+Ugh oh...We have a tie! W-A-R!
+1--7 of Clubs	2--Ace of Diamonds
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a 4 of Spades.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a 4 of Hearts.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 10 of Clubs.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a 9 of Clubs.
+Player 1 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 5 of Spades.	Player 2 pulled out a 5 of Diamonds.
+Ugh oh...We have a tie! W-A-R!
+1--Queen of Hearts	2--King of Diamonds
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a 7 of Hearts.
+Player 2 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 10 of Hearts.	Player 2 pulled out a King of Diamonds.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a 7 of Hearts.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 4 of Clubs.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 7 of Spades.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a 3 of Clubs.
+Player 2 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a King of Hearts.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 5 of Clubs.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a Jack of Spades.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a Ace of Spades.
+Ugh oh...We have a tie! W-A-R!
+1--4 of Spades	2--8 of Clubs
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a Jack of Hearts.
+Player 1 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 4 of Spades.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a 6 of Clubs.
+Player 1 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a 10 of Diamonds.
+Player 1 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 30 cards.
+Player 2 has 22 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a 3 of Diamonds.
+Player 2 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 5 of Diamonds.
+Player 1 won that round.
+Player 1 has 30 cards.
+Player 2 has 22 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 5 of Spades.
+Player 1 won that round.
+Player 1 has 31 cards.
+Player 2 has 21 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 30 cards.
+Player 2 has 22 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a 2 of Diamonds.
+Ugh oh...We have a tie! W-A-R!
+1--Ace of Clubs	2--Jack of Clubs
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a 6 of Hearts.
+Player 1 won that round.
+Player 1 has 36 cards.
+Player 2 has 16 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a 7 of Hearts.
+Player 1 won that round.
+Player 1 has 37 cards.
+Player 2 has 15 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a 5 of Hearts.
+Player 1 won that round.
+Player 1 has 38 cards.
+Player 2 has 14 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 3 of Clubs.
+Player 1 won that round.
+Player 1 has 39 cards.
+Player 2 has 13 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a 2 of Hearts.
+Player 1 won that round.
+Player 1 has 40 cards.
+Player 2 has 12 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 39 cards.
+Player 2 has 13 cards.
+Player 1 pulled out a 3 of Spades.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 38 cards.
+Player 2 has 14 cards.
+Player 1 pulled out a 7 of Spades.	Player 2 pulled out a Jack of Spades.
+Player 2 won that round.
+Player 1 has 37 cards.
+Player 2 has 15 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a 8 of Spades.
+Player 2 won that round.
+Player 1 has 36 cards.
+Player 2 has 16 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 9 of Spades.
+Ugh oh...We have a tie! W-A-R!
+1--5 of Clubs	2--4 of Spades
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 30 cards.
+Player 2 has 22 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 4 of Spades.
+Player 1 won that round.
+Player 1 has 31 cards.
+Player 2 has 21 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 30 cards.
+Player 2 has 22 cards.
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a 7 of Diamonds.
+Player 1 won that round.
+Player 1 has 31 cards.
+Player 2 has 21 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 32 cards.
+Player 2 has 20 cards.
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 33 cards.
+Player 2 has 19 cards.
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a Queen of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--6 of Clubs	2--Jack of Diamonds
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a Jack of Diamonds.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 6 of Diamonds.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 5 of Spades.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a 3 of Spades.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a Jack of Spades.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a 7 of Spades.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 8 of Spades.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a 9 of Spades.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 10 of Hearts.	Player 2 pulled out a 9 of Diamonds.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a 5 of Clubs.
+Player 1 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a 8 of Diamonds.
+Player 2 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a Ace of Diamonds.
+Player 2 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 3 of Clubs.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a Jack of Hearts.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a Queen of Clubs.
+Player 2 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 4 of Spades.	Player 2 pulled out a 6 of Clubs.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a Queen of Diamonds.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a 10 of Diamonds.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a 7 of Clubs.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a 4 of Hearts.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a 5 of Diamonds.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a King of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--Jack of Diamonds	2--5 of Spades
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a 8 of Spades.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 6 of Hearts.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a 8 of Diamonds.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a 7 of Hearts.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 7 of Spades.	Player 2 pulled out a Ace of Diamonds.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a 5 of Hearts.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a 8 of Hearts.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 9 of Spades.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 10 of Hearts.	Player 2 pulled out a 3 of Clubs.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a Jack of Hearts.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a 4 of Clubs.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a 2 of Hearts.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a Queen of Clubs.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a 8 of Clubs.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 6 of Clubs.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 4 of Spades.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a King of Hearts.	Player 2 pulled out a Queen of Diamonds.
+Player 1 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 5 of Spades.	Player 2 pulled out a 9 of Hearts.
+Player 2 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 3 of Spades.	Player 2 pulled out a 10 of Diamonds.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a 7 of Diamonds.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a 3 of Diamonds.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a 6 of Spades.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 5 of Diamonds.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a 8 of Diamonds.
+Player 1 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a 6 of Diamonds.
+Player 1 won that round.
+Player 1 has 30 cards.
+Player 2 has 22 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a Ace of Diamonds.
+Player 2 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a 7 of Spades.
+Player 2 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 10 of Hearts.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 3 of Clubs.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a Jack of Hearts.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a 9 of Diamonds.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a 5 of Clubs.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a Queen of Clubs.
+Ugh oh...We have a tie! W-A-R!
+1--8 of Clubs	2--3 of Hearts
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 9 of Hearts.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a King of Hearts.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a 9 of Hearts.
+Player 1 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 5 of Spades.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a 10 of Diamonds.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a 7 of Diamonds.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 2 of Diamonds.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a Jack of Diamonds.
+Ugh oh...We have a tie! W-A-R!
+1--8 of Diamonds	2--Ace of Diamonds
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a 10 of Spades.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a Ace of Diamonds.
+Ugh oh...We have a tie! W-A-R!
+1--Jack of Hearts	2--10 of Spades
+Player 1 pulled out a King of Hearts.	Player 2 pulled out a 7 of Spades.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a King of Hearts.	Player 2 pulled out a 10 of Hearts.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a 3 of Clubs.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a 9 of Diamonds.
+Ugh oh...We have a tie! W-A-R!
+1--Jack of Spades	2--4 of Clubs
+Player 1 pulled out a 5 of Spades.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a 4 of Clubs.
+Player 2 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a 9 of Clubs.
+Player 2 won that round.
+Player 1 has 13 cards.
+Player 2 has 39 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 5 of Clubs.
+Player 1 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a 2 of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--Ace of Clubs	2--Queen of Clubs
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a Queen of Spades.
+Player 1 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a King of Spades.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a 4 of Spades.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a 10 of Diamonds.
+Ugh oh...We have a tie! W-A-R!
+1--7 of Spades	2--4 of Hearts
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a 7 of Diamonds.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 10 of Hearts.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a 7 of Diamonds.
+Player 1 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 3 of Clubs.	Player 2 pulled out a 6 of Spades.
+Player 2 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a Jack of Diamonds.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a Jack of Clubs.
+Player 2 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a 8 of Diamonds.
+Player 1 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a 7 of Hearts.
+Player 1 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 6 of Diamonds.
+Player 1 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 8 of Hearts.
+Player 2 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a King of Clubs.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a Jack of Hearts.
+Player 1 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a 9 of Spades.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 4 of Spades.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 10 of Hearts.	Player 2 pulled out a 9 of Diamonds.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a 9 of Hearts.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a Jack of Spades.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a 5 of Spades.
+Player 1 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a 8 of Spades.
+Player 2 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a 3 of Spades.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a 10 of Clubs.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a 4 of Clubs.
+Player 1 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 5 of Diamonds.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a 9 of Clubs.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a 10 of Diamonds.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a 10 of Spades.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a King of Clubs.	Player 2 pulled out a 7 of Spades.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 5 of Hearts.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a King of Diamonds.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 9 of Spades.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 4 of Spades.	Player 2 pulled out a 6 of Spades.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a 3 of Clubs.
+Ugh oh...We have a tie! W-A-R!
+1--10 of Hearts	2--Ace of Hearts
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 6 of Hearts.
+Player 1 won that round.
+Player 1 has 31 cards.
+Player 2 has 21 cards.
+Player 1 pulled out a 10 of Hearts.	Player 2 pulled out a 2 of Hearts.
+Player 1 won that round.
+Player 1 has 32 cards.
+Player 2 has 20 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 8 of Hearts.
+Player 1 won that round.
+Player 1 has 33 cards.
+Player 2 has 19 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a 7 of Clubs.
+Player 1 won that round.
+Player 1 has 34 cards.
+Player 2 has 18 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 9 of Hearts.
+Player 1 won that round.
+Player 1 has 35 cards.
+Player 2 has 17 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 36 cards.
+Player 2 has 16 cards.
+Player 1 pulled out a 5 of Spades.	Player 2 pulled out a 8 of Spades.
+Player 2 won that round.
+Player 1 has 35 cards.
+Player 2 has 17 cards.
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a 5 of Clubs.
+Player 1 won that round.
+Player 1 has 36 cards.
+Player 2 has 16 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 37 cards.
+Player 2 has 15 cards.
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 38 cards.
+Player 2 has 14 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 37 cards.
+Player 2 has 15 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a 7 of Hearts.
+Player 1 won that round.
+Player 1 has 38 cards.
+Player 2 has 14 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a 9 of Clubs.
+Player 2 won that round.
+Player 1 has 37 cards.
+Player 2 has 15 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 6 of Diamonds.
+Player 1 won that round.
+Player 1 has 38 cards.
+Player 2 has 14 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a 10 of Diamonds.
+Player 2 won that round.
+Player 1 has 37 cards.
+Player 2 has 15 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 38 cards.
+Player 2 has 14 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 37 cards.
+Player 2 has 15 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a Jack of Hearts.
+Player 1 won that round.
+Player 1 has 38 cards.
+Player 2 has 14 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 37 cards.
+Player 2 has 15 cards.
+Player 1 pulled out a King of Clubs.	Player 2 pulled out a 9 of Spades.
+Player 1 won that round.
+Player 1 has 38 cards.
+Player 2 has 14 cards.
+Player 1 pulled out a 7 of Spades.	Player 2 pulled out a 6 of Spades.
+Player 1 won that round.
+Player 1 has 39 cards.
+Player 2 has 13 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 4 of Spades.
+Player 1 won that round.
+Player 1 has 40 cards.
+Player 2 has 12 cards.
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a 8 of Spades.
+Player 2 won that round.
+Player 1 has 39 cards.
+Player 2 has 13 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a 5 of Spades.
+Player 1 won that round.
+Player 1 has 40 cards.
+Player 2 has 12 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a Queen of Hearts.
+Player 1 won that round.
+Player 1 has 41 cards.
+Player 2 has 11 cards.
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a 4 of Clubs.
+Player 2 won that round.
+Player 1 has 40 cards.
+Player 2 has 12 cards.
+Player 1 pulled out a 3 of Clubs.	Player 2 pulled out a 9 of Clubs.
+Player 2 won that round.
+Player 1 has 39 cards.
+Player 2 has 13 cards.
+Player 1 pulled out a Ace of Hearts.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 40 cards.
+Player 2 has 12 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 10 of Diamonds.
+Player 2 won that round.
+Player 1 has 39 cards.
+Player 2 has 13 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a 5 of Diamonds.
+Player 1 won that round.
+Player 1 has 40 cards.
+Player 2 has 12 cards.
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 39 cards.
+Player 2 has 13 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 40 cards.
+Player 2 has 12 cards.
+Player 1 pulled out a 10 of Hearts.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 39 cards.
+Player 2 has 13 cards.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a 10 of Spades.
+Player 2 won that round.
+Player 1 has 38 cards.
+Player 2 has 14 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 8 of Spades.
+Player 1 won that round.
+Player 1 has 39 cards.
+Player 2 has 13 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 5 of Hearts.
+Player 1 won that round.
+Player 1 has 40 cards.
+Player 2 has 12 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a 4 of Clubs.
+Player 1 won that round.
+Player 1 has 41 cards.
+Player 2 has 11 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 42 cards.
+Player 2 has 10 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 9 of Clubs.
+Player 1 won that round.
+Player 1 has 43 cards.
+Player 2 has 9 cards.
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a 3 of Clubs.
+Player 1 won that round.
+Player 1 has 44 cards.
+Player 2 has 8 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a 10 of Diamonds.
+Player 2 won that round.
+Player 1 has 43 cards.
+Player 2 has 9 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a 6 of Hearts.
+Player 2 won that round.
+Player 1 has 42 cards.
+Player 2 has 10 cards.
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 41 cards.
+Player 2 has 11 cards.
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a 2 of Diamonds.
+Player 1 won that round.
+Player 1 has 42 cards.
+Player 2 has 10 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 41 cards.
+Player 2 has 11 cards.
+Player 1 pulled out a 3 of Spades.	Player 2 pulled out a 10 of Hearts.
+Player 2 won that round.
+Player 1 has 40 cards.
+Player 2 has 12 cards.
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a 10 of Spades.
+Player 2 won that round.
+Player 1 has 39 cards.
+Player 2 has 13 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a 2 of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--Queen of Spades	2--10 of Diamonds
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a 7 of Diamonds.
+Ugh oh...We have a tie! W-A-R!
+1--8 of Clubs	2--6 of Hearts
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 51 cards.
+Player 2 has 1 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a 8 of Diamonds.
+Player 1 won that round.
+Player 1 has 52 cards.
+Player 2 has 0 cards.
+I won game 1.
+Alright lets play game 2.
+Lets split the deck.
+There are 52 cards in the deck.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a 2 of Spades.
+Ugh oh...We have a tie! W-A-R!
+1--3 of Diamonds	2--5 of Clubs
+Player 1 pulled out a 7 of Spades.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a 5 of Clubs.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 5 of Spades.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 9 of Spades.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a 3 of Clubs.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 4 of Spades.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a 5 of Diamonds.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a King of Spades.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a 8 of Hearts.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a 2 of Clubs.
+Ugh oh...We have a tie! W-A-R!
+1--5 of Hearts	2--7 of Clubs
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a 9 of Clubs.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 7 of Clubs.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a 9 of Clubs.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 7 of Diamonds.
+Player 1 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a 4 of Clubs.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 5 of Spades.	Player 2 pulled out a 10 of Hearts.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a Queen of Diamonds.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 3 of Clubs.	Player 2 pulled out a Jack of Diamonds.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 4 of Spades.	Player 2 pulled out a Ace of Diamonds.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a Queen of Clubs.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 2 of Hearts.
+Player 1 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a 7 of Spades.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a 9 of Hearts.
+Player 2 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a 8 of Clubs.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a Jack of Spades.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 10 of Spades.
+Ugh oh...We have a tie! W-A-R!
+1--7 of Diamonds	2--King of Clubs
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a 9 of Spades.
+Player 1 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a 2 of Diamonds.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a 5 of Hearts.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a 7 of Hearts.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 6 of Spades.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a Ace of Clubs.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a 7 of Clubs.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 6 of Clubs.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a 5 of Clubs.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a 10 of Hearts.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a 5 of Spades.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a Queen of Diamonds.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 8 of Spades.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a Jack of Diamonds.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a King of Clubs.	Player 2 pulled out a 3 of Clubs.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 9 of Spades.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 6 of Hearts.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a Ace of Diamonds.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a 4 of Spades.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a 6 of Diamonds.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a Queen of Clubs.
+Player 2 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a 5 of Diamonds.
+Ugh oh...We have a tie! W-A-R!
+1--9 of Diamonds	2--7 of Spades
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a 9 of Clubs.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 3 of Spades.	Player 2 pulled out a 7 of Hearts.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 4 of Clubs.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a Ace of Clubs.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a Jack of Clubs.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a 7 of Clubs.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 5 of Spades.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 2 of Hearts.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a 10 of Hearts.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a King of Clubs.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 3 of Clubs.	Player 2 pulled out a Queen of Diamonds.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a Jack of Spades.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a Jack of Diamonds.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a 10 of Spades.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 7 of Spades.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a Ace of Diamonds.
+Player 2 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a 10 of Diamonds.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a 4 of Spades.
+Player 1 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a 7 of Diamonds.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 6 of Diamonds.
+Player 1 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a 2 of Diamonds.
+Player 1 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a Queen of Clubs.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a Jack of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--Queen of Spades	2--Queen of Hearts
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a 6 of Spades.
+Player 2 won that round.
+Player 1 has 13 cards.
+Player 2 has 39 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 12 cards.
+Player 2 has 40 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 6 of Spades.
+Player 1 won that round.
+Player 1 has 13 cards.
+Player 2 has 39 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 9 of Clubs.
+Player 1 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 4 of Spades.	Player 2 pulled out a 7 of Hearts.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a Ace of Clubs.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 6 of Clubs.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a 7 of Clubs.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a 5 of Clubs.
+Player 2 won that round.
+Player 1 has 13 cards.
+Player 2 has 39 cards.
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 12 cards.
+Player 2 has 40 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a 5 of Spades.
+Player 1 won that round.
+Player 1 has 13 cards.
+Player 2 has 39 cards.
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a 10 of Hearts.
+Player 1 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 8 of Spades.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a Queen of Diamonds.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 3 of Clubs.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a Jack of Diamonds.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a 6 of Hearts.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a 10 of Spades.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 5 of Hearts.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 3 of Spades.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 5 of Diamonds.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a 7 of Spades.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 5 of Spades.	Player 2 pulled out a Ace of Diamonds.
+Player 2 won that round.
+Player 1 has 14 cards.
+Player 2 has 38 cards.
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 15 cards.
+Player 2 has 37 cards.
+Player 1 pulled out a 10 of Hearts.	Player 2 pulled out a 10 of Diamonds.
+Ugh oh...We have a tie! W-A-R!
+1--King of Spades	2--9 of Hearts
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 9 cards.
+Player 2 has 43 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 9 of Hearts.
+Player 2 won that round.
+Player 1 has 8 cards.
+Player 2 has 44 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 7 cards.
+Player 2 has 45 cards.
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a 9 of Diamonds.
+Player 2 won that round.
+Player 1 has 6 cards.
+Player 2 has 46 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 7 of Diamonds.
+Player 1 won that round.
+Player 1 has 7 cards.
+Player 2 has 45 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 8 cards.
+Player 2 has 44 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a Jack of Hearts.
+Player 1 won that round.
+Player 1 has 9 cards.
+Player 2 has 43 cards.
+Player 1 pulled out a 7 of Spades.	Player 2 pulled out a Jack of Clubs.
+Player 2 won that round.
+Player 1 has 8 cards.
+Player 2 has 44 cards.
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a Queen of Spades.
+Ugh oh...We have a tie! W-A-R!
+1--4 of Diamonds	2--2 of Spades
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 10 of Clubs.
+Player 2 won that round.
+Player 1 has 2 cards.
+Player 2 has 50 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 3 cards.
+Player 2 has 49 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a 10 of Clubs.
+Player 1 won that round.
+Player 1 has 4 cards.
+Player 2 has 48 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a 2 of Hearts.
+Player 1 won that round.
+Player 1 has 5 cards.
+Player 2 has 47 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 4 cards.
+Player 2 has 48 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 3 cards.
+Player 2 has 49 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 4 cards.
+Player 2 has 48 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a 7 of Hearts.
+Player 1 won that round.
+Player 1 has 5 cards.
+Player 2 has 47 cards.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a 4 of Spades.
+Player 2 won that round.
+Player 1 has 4 cards.
+Player 2 has 48 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a Ace of Clubs.
+Player 2 won that round.
+Player 1 has 3 cards.
+Player 2 has 49 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 4 cards.
+Player 2 has 48 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a 7 of Clubs.
+Player 1 won that round.
+Player 1 has 5 cards.
+Player 2 has 47 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a 6 of Diamonds.
+Player 1 won that round.
+Player 1 has 6 cards.
+Player 2 has 46 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a 5 of Clubs.
+Player 2 won that round.
+Player 1 has 5 cards.
+Player 2 has 47 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a 4 of Clubs.
+Player 2 won that round.
+Player 1 has 4 cards.
+Player 2 has 48 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 3 cards.
+Player 2 has 49 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 2 of Diamonds.
+Player 1 won that round.
+Player 1 has 4 cards.
+Player 2 has 48 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a Queen of Diamonds.
+Player 2 won that round.
+Player 1 has 3 cards.
+Player 2 has 49 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a 6 of Spades.
+Ugh oh...We have a tie! W-A-R!
+1--7 of Clubs	2--Jack of Diamonds
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a 9 of Clubs.
+Player 2 won that round.
+Player 1 has 0 cards.
+Player 2 has 52 cards.
+I won game 2.
+Alright lets play game 3.
+Lets split the deck.
+There are 52 cards in the deck.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a 8 of Clubs.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a 8 of Hearts.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a King of Hearts.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 10 of Hearts.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a Ace of Hearts.	Player 2 pulled out a 6 of Diamonds.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a 7 of Clubs.
+Player 1 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a 8 of Spades.
+Player 2 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a Ace of Diamonds.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 7 of Spades.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 9 of Hearts.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a King of Spades.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a King of Clubs.	Player 2 pulled out a 7 of Hearts.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 5 of Spades.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a Jack of Hearts.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a Queen of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--Jack of Diamonds	2--7 of Diamonds
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 4 of Clubs.
+Player 1 won that round.
+Player 1 has 33 cards.
+Player 2 has 19 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a 9 of Clubs.
+Player 1 won that round.
+Player 1 has 34 cards.
+Player 2 has 18 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 35 cards.
+Player 2 has 17 cards.
+Player 1 pulled out a 9 of Spades.	Player 2 pulled out a 4 of Spades.
+Player 1 won that round.
+Player 1 has 36 cards.
+Player 2 has 16 cards.
+Player 1 pulled out a Ace of Spades.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 37 cards.
+Player 2 has 15 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a Jack of Clubs.
+Player 1 won that round.
+Player 1 has 38 cards.
+Player 2 has 14 cards.
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a 8 of Clubs.
+Player 2 won that round.
+Player 1 has 37 cards.
+Player 2 has 15 cards.
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a 5 of Clubs.
+Ugh oh...We have a tie! W-A-R!
+1--10 of Diamonds	2--8 of Hearts
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a 2 of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--3 of Clubs	2--8 of Spades
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 49 cards.
+Player 2 has 3 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a 10 of Spades.
+Ugh oh...We have a tie! W-A-R!
+1--2 of Diamonds	2--8 of Clubs
+Player 1 pulled out a 3 of Clubs.	Player 2 pulled out a 6 of Spades.
+Player 2 won that round.
+Player 1 has 43 cards.
+Player 2 has 9 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a 8 of Clubs.
+Player 2 won that round.
+Player 1 has 42 cards.
+Player 2 has 10 cards.
+Player 1 pulled out a 10 of Hearts.	Player 2 pulled out a 6 of Spades.
+Player 1 won that round.
+Player 1 has 43 cards.
+Player 2 has 9 cards.
+Player 1 pulled out a 3 of Spades.	Player 2 pulled out a 10 of Spades.
+Player 2 won that round.
+Player 1 has 42 cards.
+Player 2 has 10 cards.
+Player 1 pulled out a Ace of Hearts.	Player 2 pulled out a 10 of Diamonds.
+Player 1 won that round.
+Player 1 has 43 cards.
+Player 2 has 9 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a 2 of Diamonds.
+Player 1 won that round.
+Player 1 has 44 cards.
+Player 2 has 8 cards.
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a 3 of Clubs.
+Player 1 won that round.
+Player 1 has 45 cards.
+Player 2 has 7 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 9 of Diamonds.
+Player 2 won that round.
+Player 1 has 44 cards.
+Player 2 has 8 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 45 cards.
+Player 2 has 7 cards.
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 44 cards.
+Player 2 has 8 cards.
+Player 1 pulled out a King of Clubs.	Player 2 pulled out a 8 of Clubs.
+Player 1 won that round.
+Player 1 has 45 cards.
+Player 2 has 7 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 46 cards.
+Player 2 has 6 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 10 of Spades.
+Player 2 won that round.
+Player 1 has 45 cards.
+Player 2 has 7 cards.
+Player 1 pulled out a 5 of Spades.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 46 cards.
+Player 2 has 6 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a 9 of Diamonds.
+Player 1 won that round.
+Player 1 has 47 cards.
+Player 2 has 5 cards.
+Player 1 pulled out a Queen of Hearts.	Player 2 pulled out a 7 of Clubs.
+Player 1 won that round.
+Player 1 has 48 cards.
+Player 2 has 4 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 47 cards.
+Player 2 has 5 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a 9 of Hearts.
+Player 2 won that round.
+Player 1 has 46 cards.
+Player 2 has 6 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a 10 of Spades.
+Player 2 won that round.
+Player 1 has 45 cards.
+Player 2 has 7 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a 6 of Clubs.
+Player 1 won that round.
+Player 1 has 46 cards.
+Player 2 has 6 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a King of Hearts.
+Player 1 won that round.
+Player 1 has 47 cards.
+Player 2 has 5 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a 7 of Diamonds.
+Player 1 won that round.
+Player 1 has 48 cards.
+Player 2 has 4 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a 9 of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--10 of Clubs	2--4 of Clubs
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a 10 of Spades.
+Player 2 won that round.
+Player 1 has 42 cards.
+Player 2 has 10 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a 4 of Clubs.
+Player 2 won that round.
+Player 1 has 41 cards.
+Player 2 has 11 cards.
+Player 1 pulled out a King of Diamonds.	Player 2 pulled out a 10 of Spades.
+Player 1 won that round.
+Player 1 has 42 cards.
+Player 2 has 10 cards.
+Player 1 pulled out a Jack of Clubs.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 43 cards.
+Player 2 has 9 cards.
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a 9 of Hearts.
+Player 2 won that round.
+Player 1 has 42 cards.
+Player 2 has 10 cards.
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a 9 of Clubs.
+Player 2 won that round.
+Player 1 has 41 cards.
+Player 2 has 11 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 10 of Clubs.
+Player 2 won that round.
+Player 1 has 40 cards.
+Player 2 has 12 cards.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a 3 of Hearts.
+Player 2 won that round.
+Player 1 has 39 cards.
+Player 2 has 13 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 38 cards.
+Player 2 has 14 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a 4 of Spades.
+Ugh oh...We have a tie! W-A-R!
+1--Ace of Diamonds	2--Ace of Spades
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a 4 of Clubs.
+Player 1 won that round.
+Player 1 has 44 cards.
+Player 2 has 8 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a 9 of Clubs.
+Player 1 won that round.
+Player 1 has 45 cards.
+Player 2 has 7 cards.
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a 5 of Clubs.
+Player 1 won that round.
+Player 1 has 46 cards.
+Player 2 has 6 cards.
+Player 1 pulled out a 7 of Spades.	Player 2 pulled out a 10 of Clubs.
+Player 2 won that round.
+Player 1 has 45 cards.
+Player 2 has 7 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 8 of Hearts.
+Player 2 won that round.
+Player 1 has 44 cards.
+Player 2 has 8 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 45 cards.
+Player 2 has 7 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a 2 of Hearts.
+Player 1 won that round.
+Player 1 has 46 cards.
+Player 2 has 6 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a 9 of Spades.
+Player 1 won that round.
+Player 1 has 47 cards.
+Player 2 has 5 cards.
+Player 1 pulled out a 10 of Hearts.	Player 2 pulled out a 8 of Spades.
+Player 1 won that round.
+Player 1 has 48 cards.
+Player 2 has 4 cards.
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a 10 of Clubs.
+Player 2 won that round.
+Player 1 has 47 cards.
+Player 2 has 5 cards.
+Player 1 pulled out a Ace of Hearts.	Player 2 pulled out a 7 of Spades.
+Player 1 won that round.
+Player 1 has 48 cards.
+Player 2 has 4 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a 8 of Hearts.
+Player 1 won that round.
+Player 1 has 49 cards.
+Player 2 has 3 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a 6 of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--2 of Diamonds	2--10 of Clubs
+Player 1 pulled out a Queen of Clubs.	Player 2 pulled out a 6 of Spades.
+Player 1 won that round.
+Player 1 has 52 cards.
+Player 2 has 0 cards.
+I won game 3.
+Alright lets play game 4.
+Lets split the deck.
+There are 52 cards in the deck.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a Queen of Spades.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a King of Diamonds.
+Ugh oh...We have a tie! W-A-R!
+1--Jack of Spades	2--6 of Diamonds
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a Jack of Clubs.
+Player 1 won that round.
+Player 1 has 31 cards.
+Player 2 has 21 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 32 cards.
+Player 2 has 20 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 33 cards.
+Player 2 has 19 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a 2 of Diamonds.
+Player 1 won that round.
+Player 1 has 34 cards.
+Player 2 has 18 cards.
+Player 1 pulled out a 3 of Clubs.	Player 2 pulled out a 5 of Spades.
+Player 2 won that round.
+Player 1 has 33 cards.
+Player 2 has 19 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 6 of Spades.
+Player 1 won that round.
+Player 1 has 34 cards.
+Player 2 has 18 cards.
+Player 1 pulled out a King of Clubs.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 33 cards.
+Player 2 has 19 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a Queen of Hearts.
+Player 1 won that round.
+Player 1 has 34 cards.
+Player 2 has 18 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a 8 of Hearts.
+Player 2 won that round.
+Player 1 has 33 cards.
+Player 2 has 19 cards.
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a 8 of Diamonds.
+Player 2 won that round.
+Player 1 has 32 cards.
+Player 2 has 20 cards.
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 31 cards.
+Player 2 has 21 cards.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a 5 of Diamonds.
+Player 2 won that round.
+Player 1 has 30 cards.
+Player 2 has 22 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a Jack of Hearts.
+Player 2 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a 9 of Clubs.
+Player 1 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 30 cards.
+Player 2 has 22 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 6 of Clubs.
+Player 1 won that round.
+Player 1 has 31 cards.
+Player 2 has 21 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a Queen of Clubs.
+Player 2 won that round.
+Player 1 has 30 cards.
+Player 2 has 22 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 29 cards.
+Player 2 has 23 cards.
+Player 1 pulled out a 3 of Spades.	Player 2 pulled out a 7 of Spades.
+Player 2 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a Queen of Spades.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a 5 of Spades.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a 3 of Clubs.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a King of Clubs.
+Ugh oh...We have a tie! W-A-R!
+1--King of Diamonds	2--8 of Hearts
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a 7 of Hearts.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 8 of Hearts.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 7 of Hearts.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a 8 of Diamonds.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a 5 of Clubs.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a 5 of Diamonds.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 2 of Hearts.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a Jack of Hearts.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a 8 of Spades.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a Queen of Hearts.	Player 2 pulled out a 9 of Spades.
+Player 1 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a 6 of Hearts.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a Queen of Clubs.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 10 of Spades.
+Player 2 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a Ace of Hearts.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 10 of Diamonds.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 7 of Spades.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a Queen of Spades.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a 9 of Hearts.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 3 of Clubs.	Player 2 pulled out a 5 of Spades.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a 4 of Clubs.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 5 of Hearts.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a King of Spades.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 5 of Clubs.	Player 2 pulled out a King of Diamonds.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a 6 of Diamonds.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a Jack of Clubs.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 4 of Spades.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a 10 of Hearts.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a 8 of Diamonds.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a Queen of Hearts.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 9 of Spades.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a 5 of Diamonds.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 2 of Diamonds.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a Jack of Hearts.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 3 of Spades.	Player 2 pulled out a 6 of Spades.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 10 of Clubs.	Player 2 pulled out a Queen of Clubs.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a 9 of Clubs.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Jack of Spades.	Player 2 pulled out a 10 of Spades.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 5 of Hearts.	Player 2 pulled out a 7 of Clubs.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a Ace of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--King of Spades	2--3 of Diamonds
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a 10 of Diamonds.
+Player 1 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a Queen of Spades.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a 9 of Hearts.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 4 of Spades.	Player 2 pulled out a 5 of Spades.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a 3 of Clubs.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 8 of Diamonds.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a 8 of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--4 of Hearts	2--King of Clubs
+Player 1 pulled out a 9 of Spades.	Player 2 pulled out a 7 of Hearts.
+Player 1 won that round.
+Player 1 has 31 cards.
+Player 2 has 21 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 32 cards.
+Player 2 has 20 cards.
+Player 1 pulled out a 9 of Spades.	Player 2 pulled out a 10 of Hearts.
+Player 2 won that round.
+Player 1 has 31 cards.
+Player 2 has 21 cards.
+Player 1 pulled out a 2 of Clubs.	Player 2 pulled out a 2 of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--Queen of Diamonds	2--King of Hearts
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a Queen of Hearts.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a Queen of Hearts.
+Player 1 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a Ace of Hearts.	Player 2 pulled out a Jack of Hearts.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a 7 of Diamonds.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a 6 of Spades.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 7 of Spades.	Player 2 pulled out a Queen of Clubs.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 10 of Clubs.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 9 of Clubs.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a 4 of Clubs.
+Player 1 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a 7 of Clubs.
+Player 1 won that round.
+Player 1 has 28 cards.
+Player 2 has 24 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a 5 of Hearts.
+Player 2 won that round.
+Player 1 has 27 cards.
+Player 2 has 25 cards.
+Player 1 pulled out a 8 of Clubs.	Player 2 pulled out a 9 of Hearts.
+Player 2 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a 6 of Diamonds.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a 5 of Spades.
+Player 1 won that round.
+Player 1 has 26 cards.
+Player 2 has 26 cards.
+Player 1 pulled out a 3 of Clubs.	Player 2 pulled out a 4 of Spades.
+Player 2 won that round.
+Player 1 has 25 cards.
+Player 2 has 27 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 24 cards.
+Player 2 has 28 cards.
+Player 1 pulled out a 8 of Hearts.	Player 2 pulled out a 8 of Diamonds.
+Ugh oh...We have a tie! W-A-R!
+1--King of Clubs	2--10 of Hearts
+Player 1 pulled out a 7 of Hearts.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 4 of Hearts.	Player 2 pulled out a 10 of Hearts.
+Player 2 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 3 of Hearts.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 16 cards.
+Player 2 has 36 cards.
+Player 1 pulled out a Ace of Diamonds.	Player 2 pulled out a 2 of Hearts.
+Player 1 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a Queen of Hearts.	Player 2 pulled out a 2 of Clubs.
+Player 1 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Ace of Hearts.	Player 2 pulled out a Queen of Diamonds.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a 5 of Diamonds.
+Player 1 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a 6 of Hearts.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a 2 of Diamonds.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a 9 of Diamonds.	Player 2 pulled out a Jack of Spades.
+Player 2 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 3 of Spades.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a 10 of Spades.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a 7 of Diamonds.
+Player 1 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a 3 of Diamonds.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 4 of Clubs.	Player 2 pulled out a Queen of Clubs.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a 7 of Spades.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 7 of Clubs.	Player 2 pulled out a 10 of Clubs.
+Player 2 won that round.
+Player 1 has 22 cards.
+Player 2 has 30 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a 6 of Clubs.
+Player 1 won that round.
+Player 1 has 23 cards.
+Player 2 has 29 cards.
+Player 1 pulled out a 5 of Spades.	Player 2 pulled out a 5 of Hearts.
+Ugh oh...We have a tie! W-A-R!
+1--Ace of Diamonds	2--2 of Spades
+Player 1 pulled out a 2 of Hearts.	Player 2 pulled out a 9 of Hearts.
+Player 2 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a 2 of Spades.
+Player 1 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a 9 of Hearts.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 5 of Diamonds.	Player 2 pulled out a 8 of Clubs.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a 6 of Diamonds.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 4 of Diamonds.
+Player 1 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a 4 of Spades.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 2 of Diamonds.	Player 2 pulled out a 3 of Clubs.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a King of Spades.	Player 2 pulled out a Ace of Spades.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a 8 of Spades.
+Player 1 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a 9 of Clubs.	Player 2 pulled out a 8 of Diamonds.
+Player 1 won that round.
+Player 1 has 21 cards.
+Player 2 has 31 cards.
+Player 1 pulled out a 7 of Diamonds.	Player 2 pulled out a 8 of Hearts.
+Player 2 won that round.
+Player 1 has 20 cards.
+Player 2 has 32 cards.
+Player 1 pulled out a Queen of Spades.	Player 2 pulled out a King of Clubs.
+Player 2 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 3 of Diamonds.	Player 2 pulled out a 7 of Hearts.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Jack of Diamonds.	Player 2 pulled out a King of Diamonds.
+Player 2 won that round.
+Player 1 has 17 cards.
+Player 2 has 35 cards.
+Player 1 pulled out a 7 of Spades.	Player 2 pulled out a 5 of Clubs.
+Player 1 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Ace of Clubs.	Player 2 pulled out a Jack of Clubs.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 6 of Clubs.	Player 2 pulled out a 10 of Hearts.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Queen of Diamonds.	Player 2 pulled out a 4 of Hearts.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 2 of Spades.	Player 2 pulled out a 9 of Spades.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a Jack of Hearts.	Player 2 pulled out a 3 of Hearts.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 9 of Hearts.	Player 2 pulled out a Jack of Spades.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 10 of Diamonds.	Player 2 pulled out a 9 of Diamonds.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 6 of Diamonds.	Player 2 pulled out a King of Hearts.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 6 of Hearts.	Player 2 pulled out a 3 of Spades.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 4 of Diamonds.	Player 2 pulled out a Queen of Clubs.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 6 of Spades.	Player 2 pulled out a 4 of Clubs.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 4 of Spades.	Player 2 pulled out a 10 of Clubs.
+Player 2 won that round.
+Player 1 has 18 cards.
+Player 2 has 34 cards.
+Player 1 pulled out a 10 of Spades.	Player 2 pulled out a 7 of Clubs.
+Player 1 won that round.
+Player 1 has 19 cards.
+Player 2 has 33 cards.
+Player 1 pulled out a 8 of Spades.	Player 2 pulled out a 5 of Hearts.
+Player 1 won that round.
+Player 
